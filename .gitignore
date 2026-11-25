@@ -1,0 +1,13 @@
+
+# Compiled Java class files
+/bin/
+*.class
+
+# MySQL Connector/J and external libraries
+/lib/
+
+# VS Code workspace settings
+/.vscode/
+
+# Environment variables and sensitive configuration
+.env
